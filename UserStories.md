@@ -1,0 +1,1 @@
+Small sample project: jwt-authentication + simple todo. Frontend. React.
